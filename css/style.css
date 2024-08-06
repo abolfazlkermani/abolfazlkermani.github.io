@@ -188,6 +188,12 @@ nav {
         grid-template-columns: repeat(3, 1fr) !important;   
         grid-template-rows: repeat(4, 1fr) !important;
     }
+    .description-holder {
+        background-color: white;
+        border-radius: 25px;
+        padding: 1rem 2rem;
+        flex: 3;
+    }
 }
 @media screen and (min-width: 1200px) {
     .navbar-ul {
@@ -336,12 +342,6 @@ h1::before {
     width: 100%;
     height: 4px;
     background-color: #332d8b;
-}
-.description-holder {
-    background-color: white;
-    border-radius: 25px;
-    padding: 1rem 2rem;
-    flex: 3;
 }
 .description-holder p {
     text-align: justify;
