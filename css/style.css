@@ -117,7 +117,7 @@ nav {
     }
     .description-holder {
         background-color: white;
-        width: 100%;
+        width: 120%;
     }
 }
 @media screen and (min-width: 576px) {
