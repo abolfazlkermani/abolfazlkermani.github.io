@@ -120,7 +120,7 @@ nav {
         width: 120%;
     }
     .fs28px {
-        font-size: 20px !important;
+        font-size: 16px !important;
     }
     .hero {
         box-shadow: rgba(46, 67, 255, 0.4) 0 5px, rgba(46, 67, 255, 0.3)  0 10px, rgba(46, 67, 255, 0.2)  0 15px, rgba(46, 67, 255, 0.1)  0 20px, rgba(46, 67, 255, 0.05) 0 25px;
@@ -150,7 +150,7 @@ nav {
         display: none;
     }
     .fs28px {
-        font-size: 24px !important;
+        font-size: 20px !important;
     }
     .logo {
         width: 35px;
