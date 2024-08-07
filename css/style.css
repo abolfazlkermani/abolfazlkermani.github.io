@@ -113,7 +113,7 @@ nav {
     }
     .special {
         grid-template-columns: repeat(1, 1fr) !important;   
-        grid-template-rows: repeat(12, 1fr) !important;
+        grid-template-rows: repeat(6, 1fr) !important;
     }
     .description-holder {
         background-color: white;
@@ -163,7 +163,7 @@ nav {
     }
     .special {
         grid-template-columns: repeat(2, 1fr) !important;   
-        grid-template-rows: repeat(6, 1fr) !important;
+        grid-template-rows: repeat(3, 1fr) !important;
     }
     .hero {
         box-shadow: rgba(46, 67, 255, 0.4) 2.5px 2.5px, rgba(46, 67, 255, 0.3) 5px 5px, rgba(46, 67, 255, 0.2) 10px 10px, rgba(46, 67, 255, 0.1) 15px 15px, rgba(46, 67, 255, 0.05) 20px 20px;
@@ -204,7 +204,7 @@ nav {
     }
     .special {
         grid-template-columns: repeat(3, 1fr);   
-        grid-template-rows: repeat(4, 1fr);
+        grid-template-rows: repeat(2, 1fr);
     }
     .hero {
         box-shadow: rgba(46, 67, 255, 0.4) 5px 5px, rgba(46, 67, 255, 0.3) 10px 10px, rgba(46, 67, 255, 0.2) 15px 15px, rgba(46, 67, 255, 0.1) 20px 20px, rgba(46, 67, 255, 0.05) 25px 25px;
@@ -236,10 +236,6 @@ nav {
     * {
         font-size: 15px;
     }
-    .special {
-        grid-template-columns: repeat(3, 1fr) !important;   
-        grid-template-rows: repeat(4, 1fr) !important;
-    }
     .description-holder {
         background-color: white;
     }
@@ -257,10 +253,6 @@ nav {
     }
     * {
         font-size: 16px;
-    }
-    .special {
-        grid-template-columns: repeat(3, 1fr) !important;   
-        grid-template-rows: repeat(4, 1fr) !important;
     }
     .name {
         font-size: 28px !important;
@@ -460,29 +452,11 @@ h1::before {
     width: 10%;
 }
 .a-bar-4 {
-    width: 90%;
-}
-.a-bar-5 {
-    width: 60%;
-}
-.a-bar-6 {
     width: 80%;
 }
-.a-bar-7 {
+.a-bar-5 {
     width: 85%;
 }
-.a-bar-8 {
-    width: 40%;
-}
-.a-bar-9 {
-    width: 15%;
-}
-.a-bar-10 {
+.a-bar-6 {
     width: 75%;
-}
-.a-bar-11 {
-    width: 30%;
-}
-.a-bar-12 {
-    width: 20%;
 }
